@@ -1,0 +1,8 @@
+toucan
+macaw
+cockatoo
+bird of paradise
+hornbill
+sunbird
+frigatebird
+quetzal

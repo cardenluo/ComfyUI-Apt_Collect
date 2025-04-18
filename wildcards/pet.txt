@@ -1,0 +1,8 @@
+dog
+cat
+rabbit
+hamster
+parakeet
+goldfish
+guinea pig
+ferret

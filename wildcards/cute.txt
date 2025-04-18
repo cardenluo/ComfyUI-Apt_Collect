@@ -1,0 +1,26 @@
+Kittens
+Puppies
+Bunnies
+Hamsters
+Guinea Pigs
+Chickens
+Ducklings
+Baby goats
+Penguins
+Koalas
+Baby elephants
+Sea turtles
+Snow leopards
+Dolphins
+Panda bears
+Orcas
+Sloths
+Hedgehogs
+Red pandas
+Squirrels
+Raccoons
+Corgis
+Otters
+Frogs
+Butterflies
+Ladybugs

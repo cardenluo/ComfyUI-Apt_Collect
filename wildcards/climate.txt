@@ -1,0 +1,13 @@
+Polar
+Tundra
+Volcanic
+Desert
+Savanna
+Mediterranean
+Grassland
+Taiga
+Tropical 
+Rainforest
+Prairie
+Beach
+Park

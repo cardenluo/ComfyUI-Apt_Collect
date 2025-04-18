@@ -1,0 +1,15 @@
+Baseball cap
+Bucket hat
+Cowboy hat
+Fedora
+Felt hat
+Bowler hat
+Top hat
+Tiara
+Beanie
+Straw hat
+Sunhat
+Tophat
+Sombrero
+Beret
+Crown

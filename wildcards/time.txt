@@ -1,0 +1,18 @@
+day
+night
+afternoon
+dusk
+dawn
+morning
+sunset
+studio
+midnight
+rush hour
+noon
+early
+late
+fast
+slow
+studio
+outdoor
+highway

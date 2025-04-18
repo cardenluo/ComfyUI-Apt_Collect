@@ -1,0 +1,21 @@
+Aerial
+Architectural
+Black and white
+Close-up
+Conceptual
+Documentary
+Fashion
+Fine art
+Food
+Glamour
+Landscape
+Lifestyle
+Macro
+Medical
+Nature
+Photojournalism
+Portrait
+Product
+Sports
+Street
+Underwater

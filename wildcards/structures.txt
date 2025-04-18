@@ -1,0 +1,6 @@
+houses
+huts
+buildings
+silos
+hangars
+tents

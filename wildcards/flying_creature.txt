@@ -1,0 +1,8 @@
+eagle
+owl
+bat
+butterfly
+dragonfly
+hummingbird
+pterodactyl
+@@mythical_flying_creature

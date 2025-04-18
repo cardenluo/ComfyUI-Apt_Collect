@@ -1,0 +1,22 @@
+angry
+fearful
+sad
+happy
+disgusted
+surprised
+scared
+confused
+shocked
+calm
+distracted
+frustrated
+annoyed
+proud
+content
+jealous
+in love
+embarrassed
+silly
+lonely
+ashamed
+sympathetic

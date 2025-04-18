@@ -1,0 +1,8 @@
+lemur
+sloth
+pangolin
+axolotl
+kinkajou
+fennec fox
+tapir
+capybara

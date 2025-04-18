@@ -1,0 +1,8 @@
+lion
+tiger
+wolf
+bear
+eagle
+shark
+crocodile
+panther

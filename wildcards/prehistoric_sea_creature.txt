@@ -1,0 +1,8 @@
+plesiosaur
+megalodon
+ichthyosaur
+mosasaur
+dunkleosteus
+liopleurodon
+kronosaurus
+archelon

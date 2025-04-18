@@ -1,0 +1,8 @@
+dragon
+phoenix
+pegasus
+griffin
+roc
+hippogriff
+flying monkey
+winged serpent

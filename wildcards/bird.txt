@@ -1,0 +1,8 @@
+eagle
+owl
+hummingbird
+peacock
+flamingo
+parrot
+swan
+@@tropical_bird

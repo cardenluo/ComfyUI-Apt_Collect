@@ -1,0 +1,8 @@
+castle
+cathedral
+monastery
+palace
+fortress
+abbey
+citadel
+amphitheater
