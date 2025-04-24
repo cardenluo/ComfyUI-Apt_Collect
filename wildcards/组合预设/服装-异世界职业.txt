@@ -1,0 +1,67 @@
+Swordsman, sword, shield, armor, leather boots, gauntlets, chainmail
+Wizard, staff, spellbook, robe, amulet, pointy hat, magic potions
+Rogue, daggers, lock picks, leather armor, cloak, stealth, poison vials
+Ranger, bow and arrows, animal companion, leather armor, camouflage, tracking skills, survival gear
+Cleric, holy symbol, mace, chainmail, healing spells, prayer book, divine intervention
+Bard, musical instrument, charisma, light armor, storytelling, charm spells, supportive magic
+Alchemist, alchemy lab, potion bottles, scrolls, chemical ingredients, explosive concoctions, transmutation
+Summoner, summoning circles, magical contracts, bound creatures, enchanted talismans, control spells, arcane knowledge
+Blacksmith, forge, hammer, anvil, metal ingots, armor crafting, weapon forging, artisan tools
+Assassin, hidden blades, poison, disguise, stealth, infiltration, precision, shadow manipulation
+Necromancer, dark magic, undead minions, skeletal remains, cursed artifacts, reanimation, deathly aura
+Tinkerer, mechanical gadgets, gears, blueprints, clockwork creations, steam-powered devices, engineering skills
+Priest, divine magic, sacred texts, ceremonial robes, incense, healing spells, blessing rituals
+Druid, nature magic, animal shapeshifting, plant control, elemental spells, staff, leather armor
+Monk, martial arts, unarmed combat, meditation, agility, staff, simple clothing, inner strength
+Berserker, dual-wielding axes, frenzy, animal pelts, battle cries, immense strength, unstoppable rage
+Paladin, holy sword, divine smite, plate armor, shield, aura of protection, righteous conviction
+Warrior, melee weapons, heavy armor, battle tactics, brute force, resilience, leadership
+Spellsword, enchanted weapons, magic-infused attacks, elemental mastery, battle mage, arcane warrior, versatile combatant
+Ninja, shuriken, kusarigama, ninjutsu, stealth, acrobatics, smoke bombs, shadow techniques
+Sailor, navigation, ship, cutlass, sailing knowledge, knots, sea shanties, ocean exploration
+Merchant, gold coins, trade goods, negotiation skills, travel, market savvy, resourcefulness
+Adventurer, versatile equipment, broad skillset, treasure hunter, dungeon delver, daring explorer, jack-of-all-trades
+Beastmaster, animal companions, bond with nature, animal handling, tracking, wilderness survival, empathetic connection
+Occultist, forbidden knowledge, eldritch artifacts, dark rituals, ancient texts, pact with otherworldly beings, arcane secrets
+Illusionist, illusions, trickery, deception, light manipulation, smoke and mirrors, misdirection, phantasmal spells
+Arcane Archer, enchanted arrows, precision, longbow, magical attacks, elemental arrows, ranged combat
+Twinblade, dual-wielding swords, agility, quick strikes, finesse, evasion, whirlwind attacks, speed
+Geomancer, earth magic, environmental manipulation, terrain control, elemental mastery, ley lines, harmony with nature
+Pyromancer, fire magic, flame control, heat manipulation, combustion, fiery spells, burning passion
+Cryomancer, ice magic, frost control, cold manipulation, freezing spells, chilling touch, icy demeanor
+Electromancer, lightning magic, electric control, shock spells, storm summoning, electrifying presence
+Shadowdancer, shadow magic, darkness control, stealth, shadowstep, umbral spells, hidden blade
+Runesmith, rune magic, enchanted weapons, glyph crafting, magical inscriptions, ancient symbols, runic power
+Warforged, mechanical body, integrated weapons, durable armor, clockwork enhancements, steam-powered strength
+Dancer, grace, elegance, captivating movements, performance, entrancing dance, combat agility
+Mercenary, hired sword, versatile combat skills, resourcefulness, adaptability, loyalty for coin, professional soldier
+Minstrel, storytelling, music, song, poetry, inspiration, oral tradition, entertainer
+Mageward, magical defense, arcane shields, protective spells, barrier creation, magical guardian, warding runes
+Observer, keen senses, perception, intuition, investigation, insight, deduction, awareness
+Guardian, defensive combat, protection, shielding, self-sacrifice, resolve, unbreakable spirit
+Shapeshifter, transformation, adaptability, camouflage, mimicry, animal forms, fluid identity
+Explorer, cartography, wilderness survival, navigation, discovery, curiosity, daring adventurer
+Tactician, strategy, planning, battlefield control, logistics, cunning, foresight, command
+Alchemical Warrior, combat alchemy, potion-enhanced abilities, transmutation, explosive concoctions, versatile fighter
+Windwalker, air magic, wind control, flight, agility, speed, aerial combat, soaring spirit
+Plainsrunner, animal companions, horseback combat, archery, speed, endurance, nomadic lifestyle
+Ancient Warrior, forgotten martial arts, ancestral weapons, ancient armor, time-worn techniques, legacy of the past
+Ghostbinder, spirit control, necromancy, ghostly allies, spectral manipulation, ethereal magic, communion with the dead
+Aquamancer, water magic, fluid control, water manipulation, hydration, aquatic spells, aquatic combat
+Stoneshaper, earth magic, rock control, terrain manipulation, seismic power, stone constructs, grounded strength
+Herbalist, plant magic, potion brewing, natural remedies, healing salves, botanical knowledge, communion with nature
+Sun Knight, solar magic, light manipulation, radiant power, sunbeam attacks, aura of warmth, shining armor
+Moon Knight, lunar magic, night-time power, moonlight manipulation, shadowy presence, nocturnal combat, crescent blade
+Sand Magician, sand magic, desert control, sandstorm conjuration, arid spells, scorching power, oasis manipulation
+Beastmaster, animal companions, animal communication, empathy, wildlife mastery, feral instincts, animalistic combat
+Floramancer, plant magic, vegetation control, growth manipulation, botanical spells, nature's embrace, photosynthetic power
+Machinist, mechanical magic, clockwork constructs, steam-powered spells, gear manipulation, artifice mastery
+Entomancer, insect control, swarm mastery, creepy-crawlies, venomous bites, infestation, insectoid allies
+Luck Thief, fortune manipulation, probability control, lucky charm, serendipity, chance manipulation, gambler's instincts
+Stormcaster, weather magic, storm control, thunder and lightning, hurricane summoning, tempestuous power, elemental fury
+Galecaller, wind magic, air control, gust manipulation, aerokinesis, zephyr spells, breath of the wind
+Chronomancer, time magic, temporal manipulation, time travel, aging control, future sight, clockwork spells
+Starmancer, celestial magic, starlight manipulation, astral spells, cosmic power, heavenly bodies, constellation control
+Flame Ninja, fire control, pyrokinetic stealth, smoke bombs, blazing speed, fire shuriken, ember cloak
+Frost Ninja, ice control, cryokinetic stealth, freezing touch, frosty speed, ice shuriken, chilling presence
+Storm Ninja, lightning control, electrokinetic stealth, shock touch, electric speed, thunder shuriken, charged presence

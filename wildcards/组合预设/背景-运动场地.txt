@@ -1,0 +1,17 @@
+soccer match, (competition:1.2), teamwork, stadium, excitement, (action:1.1)
+skateboard park, tricks, (freestyle:1.2), (youth culture:1.1), concrete ramps, graffiti
+basketball game, (teamwork:1.2), fast-paced, (court:1.1), excitement, athleticism
+(ice skating rink:1.2), gliding, (graceful:1.1), winter, sparkling lights, enjoyment
+baseball game, (stadium:1.1), (cheering crowd:1.2), teamwork, excitement, home run
+tennis court, match, (competition:1.2), (speed:1.1), athleticism, focus
+golf course, (play:1.1), (scenic views:1.2), relaxation, concentration, (challenge:1.1)
+indoor pool, swimming, (laps:1.2), (refreshing:1.1), fitness, water
+gym, weight training, (strength:1.2), fitness, determination, (muscle building:1.1)
+badminton, Hold a badminton grip, match, (agility:1.2), (fast-paced:1.1), sportsmanship, fun
+marathon, (endurance:1.1), long-distance running, (achievement:1.2), fitness, perseverance
+boxing gym, training, (strength:1.1), discipline, (focus:1.2), agility, self-defense
+billiards, competition, (strategy:1.1), precision, socializing, (skill:1.2)
+bowling alley, game, (fun:1.1), friends, family, (strikes:1.2), competition
+rock climbing, (adventure:1.1), (challenge:1.2), strength, (vertical ascent:1.3), determination
+ski resort, skiing, (snowy:1.1), (mountain:1.2), (speed:1.3), winter sports, exhilaration
+(cycling:1.2), outdoors, (scenic views:1.2), fitness, exploration, (fresh air:1.3)

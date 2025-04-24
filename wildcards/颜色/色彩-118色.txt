@@ -1,0 +1,118 @@
+red
+crimson
+darkred
+indianred
+tomato
+coral
+lightcoral
+salmon
+dark salmon
+light salmon
+deep-pink
+hot-pink
+light-pink
+pink
+peach-puff
+misty-rose colored
+orangered
+darkorange
+orange
+papaya whip
+gold
+darkgoldenrod
+goldenrod
+palegoldenrod
+yellow
+light-yellow
+lemon chiffon
+lightgoldenrod yellow
+green yellow
+palegreen
+lightgreen
+lawn green
+lime green
+forestgreen
+green
+darkgreen
+chartreuse green
+olive
+dark olivegreen
+olivedrab
+dark sea-green
+medium-spring-green
+spring-green
+medium sea-green
+sea-green
+mint-cream
+light sea-green
+darkturquoise
+medium-aquamarine
+aquamarine
+turquoise
+medium-turquoise
+cadet-blue
+steelblue
+light-steelblue
+lightblue
+skyblue
+deep-skyblue
+dodger blue
+cornflowerblue
+royalblue
+blue
+medium blue
+darkblue
+midnightblue
+navy
+dark slateblue
+slateblue
+medium slateblue
+blue violet
+indigo
+azure
+aliceblue
+medium purple
+dark-orchid
+darkviolet
+medium-orchid
+thistle
+plum
+violet
+purple
+darkmagenta
+magenta
+fuchsia
+orchid colored
+medium-violet-red
+pale-violet-red
+lavenderblush
+saddle-brown colored
+sienna colored
+brown colored
+chocolate colored
+sandy-brown colored
+tan colored
+rosy brown
+dark khaki
+khaki
+beige
+wheat colored
+cornsilk colored
+linen
+antique-white
+bisque-colored
+blanched-almond colored
+navajowhite
+snow
+ghostwhite
+whitesmoke
+ivory
+gainsboro
+slategray
+light-slategray
+light-gray
+silver
+gray
+darkgray
+dark slategray
+black

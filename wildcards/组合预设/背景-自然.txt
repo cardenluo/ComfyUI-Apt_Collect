@@ -1,0 +1,14 @@
+sunset, secluded beach, sand, ocean, sky, (warm:1.2), (peaceful:1.1), twilight, waves, shore
+moonlit, walk, riverbank, night, reflection, (calm:1.2), water, trees, pebbles, shadows
+picnic, cherry blossom tree, (spring:1.2), petals, grass, blanket, soft light, leisure, outdoors, flowers
+dancing, sunflower field, sunlight, (joy:1.2), summer, warm breeze, (freedom:1.1), nature, vibrant colors, happiness
+wandering, mystical forest, (enchanted:1.2), trees, moss, soft light, (magic:1.1), path, foliage, mysterious
+waterfall, (hidden:1.2), lush jungle, greenery, mist, tranquil, cascading water, ferns, rocks, nature
+gazing, stars, mountain peak, (night sky:1.2), cool air, breathtaking view, serenity, adventure, solitude, vastness
+trolling, lavender field, (fragrant:1.2), summer, purple, calming, warm breeze, picturesque, rows, nature
+secret garden, full bloom, (colorful:1.2), flowers, serene, hidden, lush, peaceful, nature, oasis
+on the snow-covered bridge, winter wonderland, (frosty:1.2), (enchanted:1.1), river, trees, cold, ice, footprints, solitude
+cityscape,dusk, gradient sky,horizon,(mountainous horizon:1.1),orange sky, sunlight, sunrise, sunset,(tree:1.3),(Sunset reflected in a puddle:1.4),(in the forest:1.5),(puddle:1.3), after rain
+(river surrounded by trees:1.2),blue sky and cumulonimbus,(camping:1.3),(Riverside:1.3),(in shadow,arbor,light reflecting in the river,tree shade, sunbeams:1.5)
+(Giant trees, leaves that cover the sky:1.3),(maple leaves,Autumn leaves, autumn,red mountain,Fallen leaves:1.1),waterfall
+(Wonderland, Fantasy,:1.3),(Rainbow,flower tree,sweets Clouds:1.5),(yumekawa,yumekawaii,pastel color:1.3),(sweets garden:1.3),(land of sweets,confections,rainbow arch:1.3),(Sugar confectionery,round rainbow frame:1.3),bloom,blue sky

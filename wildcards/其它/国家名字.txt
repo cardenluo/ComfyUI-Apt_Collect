@@ -1,0 +1,76 @@
+Irish
+American
+British
+Caucasian
+Chinese
+Japanese
+Korean
+Filipino
+Japanese
+Australian
+Indian
+Russian
+Ukranian
+German
+Swedish
+Danish
+Finnish
+Austrian
+French
+Spanish
+Italian
+Greek
+Turkish
+Iranian
+Persian
+Asian
+Pacific Islander
+African
+South African
+Nigerian
+Canadian
+Mexican
+Brazilian
+Nicarauguan
+Panamanian
+Cuban
+Jamaican
+Puerto Rican
+Latino
+Hispanic
+White
+Caucasian
+Anime
+Cybernetic
+Robotic
+robot
+cyborg
+Elven
+Viking
+gothic
+Native American
+Egyptian
+Chilean
+Ruwandan
+Sudanian
+Algerian
+Moroccan
+Saharan
+Angolan
+Zambian
+Malawian
+Iraqi
+Saudi Arabian
+Middle Eastern
+Pakistani
+Israeli
+Bulgarian
+Romanian
+Portugese
+Syrian
+Mongolian
+Taiwanese
+Indonesian
+Malaysian
+Vietnamese
+Jewish

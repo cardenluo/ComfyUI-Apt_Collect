@@ -1,0 +1,32 @@
+city skyline, twilight, (evening:1.2), buildings, lights, urban landscape, dusk, clouds, reflections, vibrant colors
+old-fashioned, street café, (nostalgic:1.2), city, cobblestone, chairs, tables, people, relaxing, architecture
+rooftop, overlooking, bustling city, urban jungle, skyscrapers, panoramic view, sunset, skyline
+library, quiet corner, cozy, peaceful, books, knowledge, solitude, contemplation
+upscale restaurant, candlelit dinner, romantic, elegance, fine dining, ambiance, soft lighting, intimate
+rain-soaked street, walking hand in hand, romance, umbrella, city lights, reflections, intimacy, love
+vintage cinema, marquee, old Hollywood, classic, nostalgic, movie night, retro, charm
+empty theater stage, after the show, quiet, spotlight, curtains, performance, atmosphere, solitude
+(walking in the town:1.5),(outdoor:1.5),(in street:1.5),Cafeteria, Florist, Shoemaker, Florist
+(cyberpunk:1.5),(biopunk:1.5),(cyberpunk city:1.5),(holographic billboard:1.5),(neon signs:1.3),(City of night:1.5),(utility pole with power line:1.3) ,(torii:1.2),(shrine:1.2), (Japanese arch:1.2),huge building
+(summer sky:1.3),(cumulonimbus),blue sky,group of buildings,1Contrail,(cityscape:1.5),warm light, the top of the hill,(Overlooking the cityscape:1.5),(scenery:1.5),(Looking down on the city from the roof of a building:1.3)
+(Foliage plant:1.3) , ((fountain,water:1.3)), luster,Flower, rose Garden,indoor, (alcove , arbor:1.2) ,room ,Garden room,open window,(lamp),rose,(visual Impact:1.5),splash Flower, (crystal clear water:1.4),(botanical garden:1.3),small waterfall
+(cyberpunk city:1.8),(biopunk girl:1.5),(light rays:1.2) ,(milky way:1.3),(((luminescence))),dark atmosphere,(neon sign:1.3),skyscraper,bloom,(City of night:1.3)
+((wonderland)),Gothic decoration,((sticker style)),(heart item,star item,ribbon:1.5),(symbolic:1.2), conspicuous,(star glitter and hart glitter:1.5),(kawaii town at night:1.5),(big clock tower:1.2),(Meteor shower,star and hart effect:1.3)
+(milky way),(giant paper lantern:1.2),(stone lantern),(fireworks:1.3),(crowd,stall:1.3)
+(☢:1.3),(smoke:1.2),(combat,wrecked tank:1.4),(in ruins,in town),(outdoor,sky), (sparks:1.3),(wartime:1.2)
+(in bar),(Various colored bottles lined up on the counter:1.5),(indirect lighting,bottles),(Lounges, dark bars),(Cocktail:1.2),(bar counter:1.3),(luster)
+(Factories, pipes, smoke:1.3),(sparks, chimneys, electric lights, rusty walls:1.3),(outdoor),(a large oil refinery with a lot of tanks and pipes:1.3),(factory view at night)
+(thorns:1.1),(lots of roses:1.5),(pink rose:1.5),,(chessboard,fantasy),((pink gothic room:1.5)),((pink tile floor,tile floor:1.2)),(sweets decoration),(white and pink interior,sweets:1.3)
+(Amusement park:1.5),(attractions, theme parks,roller coaster:1.2),(ferris wheel:1.2),(flower,fountain:1.3),(outdoor:1.3),(blue sky:1.3)
+(milky way:1.3),(universe,spacecraft:1.5),(earth,container, cable,small drone,factory,weightless, floating:1.5)(outer space,Artificial satellite,space station,space colony:1.3),(asteroid,Accretion Disk:1.3)
+(retro chic,Battered train station,Old station:1.4), (wooden building:1.2), countryside scenery,(on station platform,railroad tracks:1.3),(outdoor,blue sky,cumulonimbus:1.1)
+(broken glass, peeled walls,jungle, city,city center, building,moss, ivy:1.4),( blue sky, cumulonimbus),(collapsed town,broken town, deserted town,roots crawling on walls),(outdoor),(rubble,ruins:1.3)
+(luminous water,balcony,jacuzzi pool,night pool, light up, tile floor:1.5),(crystal clear water),(superb view,night view,Night view with skyscrapers:1.1),(outdoors,starry sky),(indirect lighting:1.3)
+(town, snow, snow city, snowing:1.5),(1snowman:1.1),(residential area, street corner:1.3),(outdoors)
+(heavy rain,raining,pouring rain:1.5),( puddles, water ripples:1.2),(outdoor,in street:1.3),(cloudy),(in front of the shop:1.4)
+rooftop,outdoor,concrete floor,dusty,dirty,messy,unclean,(ruined),broken,(mesh fence:1.2),cloudy,sky,cloud,evening,twilight,dusk
+(restaurant, waitress, standing, holding a tray in the hand:1.2), (tight-fitting clothes:1.2), (tight white tank top:1.4), (wear a white tank top over naked body:1.1), (detailed tangerine orange yoga shorts:1.4), (wearing tangerine yoga shorts over pantyhose),(owl-print on tank top), (plunking neckline:1.2), bare shoulder, plump thighs
+Chinese restaurant, Lanterns, Ranma
+(Private esthetic room, in beauty salon, on bed:1.1), (Many bottles of aroma oil:1.0), (many brown towels:1.2)
+neon curtains,toy stuffed animal junk shops
+(abandoned factory,large junk shops),Ruined Plaza,Abandoned Plane,Scrapped Spaceship

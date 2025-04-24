@@ -1,0 +1,9 @@
+remote mountain, campfire, (warm:1.1), cozy, stars, serene atmosphere
+beach, surfing, waves, (sunny day:1.1), sandy shore, ocean, freedom, (action:1.2)
+mountainous terrain, hiking, breathtaking views, adventure, (crisp air:1.2), (endurance:1.1)
+park, picnic, (birdsong:1.3), greenery, family, friends, relaxation
+canoeing, river, calm water, (adventure:1.2), peaceful, nature, teamwork
+grassland, windsurfing, (windy:1.1), exhilarating, freedom, (speed:1.2), open space
+outdoor, (yoga:1.2), (zen:1.1), harmony, nature, (balance pose:1.2), peaceful
+esert, horseback riding, adventure, wide-open space, (sunset:1.1), (exploration:1.2)
+(in Flower garden, colorful flower garden,landscape of flowers:1.5),( blue sky, cumulonimbus), (windmill:1.3),(wooden bench:1.2),(many flowers are blooming:1.3)

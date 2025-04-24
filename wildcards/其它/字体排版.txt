@@ -1,0 +1,43 @@
+Helvetica Neue
+Futura
+Gill Sans
+Avenir
+Bebas Neue
+Franklin Gothic
+Didot
+Bodoni
+Baskerville
+Times New Roman (Bold)
+Garamond
+Trade Gothic
+Univers
+Myriad Pro
+Georgia (Bold)
+Century Gothic
+Gotham
+Rockwell
+Lubalin Graph
+Impact
+Copperplate Gothic
+Avant Garde
+Clarendon
+Akzidenz-Grotesk
+DIN
+Archer
+Frutiger
+Calibri (Bold)
+Eurostile
+Museo Slab
+Montserrat
+Oswald
+Lato
+Raleway
+Playfair Display
+Noto Sans
+PT Serif
+Vollkorn
+Libre Baskerville
+Roboto Slab
+Open Sans
+Source Sans Pro
+Tahoma (Bold)

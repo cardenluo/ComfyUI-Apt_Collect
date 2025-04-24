@@ -1,0 +1,52 @@
+Rain
+Snow
+Sleet
+Fog
+Hail
+Thunderstorms
+Drifting Snow
+Freezing Rain
+Blizzard
+Flurries
+High Wind
+Humid
+Dry
+Overcast
+Partly Cloudy
+Clear
+Tornadic Activity
+Lightning
+Tropical Storm
+Hurricane
+Tsunami
+Tornado
+Dust Storm
+Heat Wave
+Cold Snap
+Heavy Fog
+Warm sunshine
+Clear skies
+Light breeze
+Calm seas
+Mild temperatures
+Low humidity
+Blue skies
+Bright sunshine
+Dry air
+Light clouds
+Snow-capped mountains
+Gentle winds
+Mountain breezes
+Mild ocean currents
+Rain showers
+Foggy mornings
+Puffy white clouds
+Sunny days
+Clear nights
+Partly cloudy
+Rainbows
+Fluffy cumulus clouds
+High pressure systems
+Dust devils
+Rainy afternoons
+Fertile storms
