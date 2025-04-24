@@ -1,0 +1,35 @@
+﻿volcano
+mountain
+beach
+jungle
+river
+waterfall
+cave
+hill
+glacier
+lake
+park
+plain
+ocean bottom
+water
+desert
+flower field
+wetland
+wasteland
+stream
+geyser
+cliff
+nature
+floating island
+forest
+savannah
+pond
+ocean
+island
+canyon
+meadow
+oasis
+shore
+parking lot
+bamboo forest
+playground

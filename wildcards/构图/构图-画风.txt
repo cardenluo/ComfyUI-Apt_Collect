@@ -1,0 +1,77 @@
+﻿art nouveau
+tempera \(medium\)
+ligne claire
+watercolor pencil \(medium\)
+coupy pencil \(medium\)
+ukiyo-e
+ballpoint pen \(medium\)
+chalk \(medium\)
+graffiti \(medium\)
+painting \(medium\)
+abstract
+color trace
+variations
+flat color
+unfinished
+minimalism
+faux figurine
+cyberpunk
+oil painting \(medium\)
+whiteboard \(medium\)
+airbrush \(medium\)
+color ink \(medium\)
+sketch
+cosplay
+acrylic paint \(medium\)
+realistic
+photorealistic
+impressionism
+millipen \(medium\)
+clay \(medium\)
+retro artstyle
+brushpen \(medium\)
+pen \(medium\)
+fourth wall
+crayon \(medium\)
+illustrator \(medium\)
+lego \(medium\)
+nib pen \(medium\)
+traditional media
+flame painter
+faux traditional media
+nihonga
+print \(medium\)
+dakimakura \(medium\)
+disc \(medium\)
+charcoal \(medium\)
+amigurumi \(medium\)
+marker \(medium\)
+theatre \(medium\)
+pastel \(medium\)
+watercolor \(medium\)
+google sketchup \(medium\)
+washi tape \(medium\)
+calligraphy brush \(medium\)
+style parody
+cursor \(medium\)
+fudepen \(medium\)
+brush \(medium\)
+alphonse mucha
+porcelain \(medium\)
+leaf \(medium\)
+book cover \(medium\)
+gouache \(medium\)
+fine art parody
+sumi-e
+g-pen \(medium\)
+graphite \(medium\)
+canvas \(medium\)
+art deco
+calligraphy pen \(medium\)
+swapnote \(medium\)
+ink \(medium\)
+surreal
+colored pencil \(medium\)
+mousepad \(medium\)
+expression chart
+pastel color

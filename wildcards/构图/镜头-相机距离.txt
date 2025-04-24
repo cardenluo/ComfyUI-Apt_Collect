@@ -1,0 +1,66 @@
+100mm
+18mm
+200mm
+300mm
+35mm
+400mm
+50mm
+85mm
+canon ef 100mm
+canon ef 11-24mm
+canon ef 14mm
+canon ef 16-35mm
+canon ef 17-40mm
+canon ef 35mm
+canon ef 50mm
+canon ef 70-200mm
+canon ef 85mm
+fujifilm xf 10-24mm
+fujifilm xf 16-55mm
+fujifilm xf 16mm
+fujifilm xf 23mm
+fujifilm xf 50-140mm
+fujifilm xf 56mm
+fujifilm xf 8-16mm
+fujifilm xf 80mm
+fujifilm xf 90mm
+nikon af-s 105mm
+nikon af-s 14-24mm
+nikon af-s 16-35mm
+nikon af-s 17-35mm
+nikon af-s 35mm
+nikon af-s 50mm
+nikon af-s 70-200mm
+nikon af-s 85mm
+olympus m.zuiko digital ed 25mm
+olympus m.zuiko digital ed 45mm
+olympus m.zuiko digital ed 75mm
+panasonic lumix s pro 35mm
+panasonic lumix s pro 50mm
+panasonic lumix s pro 70mm
+rokinon 24mm
+rokinon 50mm
+rokinon 85mm
+sigma 10-20mm
+sigma 105mm
+sigma 12-24mm
+sigma 135mm
+sigma 14mm
+sigma 35mm
+sigma 50mm
+sigma 70-200mm
+sigma 8-16mm
+sigma 85mm
+sony fe 100mm
+sony fe 12-24mm
+sony fe 16-35mm
+sony fe 35mm
+sony fe 50mm
+sony fe 70-200mm
+sony fe 85mm
+tamron sp 45mm
+tamron sp 70mm
+tamron sp 85mm
+zeiss batis 85mm
+zeiss milvus 50mm
+zeiss otus 55mm

@@ -1,0 +1,150 @@
+Abidjan
+ACCRA
+ADDIS ABABA
+Ahmadabad
+Alexandria
+ALGIERS
+AMMAN
+ANKARA
+BAGHDAD
+Baku
+Bandung
+Bangalore
+BANGKOK
+Basrah
+BEIJING
+Belo Horizonte
+BERLIN
+BOGOTA
+BRASILIA
+Brisbane
+BUCHAREST
+BUENOS AIRES
+Bursa
+Busan
+CAIRO
+Cali
+Casablanca
+Changchun
+Changsha
+Changzhou
+Chengdu
+Chennai
+Chicago
+Chittagong
+Chongquin
+Daegu
+Dalian
+DAR ES SALAAM
+DELHI
+DHAKA
+Douala
+Faisalabad
+Fortaleza
+Fuzhou
+Giza
+Guangzhou
+GUATAMALA CITY
+Guayaquil
+Guiyang
+Gujranwala
+Hangzhou
+HANOI
+Harbin
+Hefei
+Ho Chi Minh City
+Hong Kong
+Houston
+Hyderabad
+Hyderabad
+Ibadan
+Incheon
+Isfahen
+Istanbul
+Izmir
+Jaipur
+JAKARTA
+Jeddah
+Jinan
+KABUL
+Kano
+Kanpur
+Kaohsiung
+Karachi
+KHARTOUM
+KIEV
+KINSHASA
+Kolkata
+Kowloon
+Kunming
+Lagos
+Lahore
+Lanzhou
+LIMA
+LONDON
+Los Angeles
+LUANDA
+Lucknow
+MADRID
+MANAGUA
+MANILA
+Mashhad
+Medellin
+Melbourne
+MEXICO CITY
+MOGADISHU
+MOSCOW
+Mumbai (Bombay)
+Nagoya
+Nagpur
+NAIROBI
+Nanchang
+Nanjing
+Nanning
+New York City
+Omdurman
+Osaka
+PARIS
+Puebla
+Pune
+PYONGYANG
+Qingdao
+QUITO
+Rawalpindi
+Rio de Janeiro
+RIYADH
+ROME
+Salvador
+SANTIAGO
+Sao Paulo
+Seoul
+Shanghai
+Shenyang
+Shenzhen
+Shiziahuang
+SINGAPORE
+St Petersburg
+Surabaya
+Surat
+Suzhou
+Sydney
+Taichung
+TAIPEI
+Taiyuan
+Tangshan
+TASHKENT
+TEHRAN
+Tianjin
+TOKYO
+Toronto
+TSHWANE (PRETORIA)
+Urumqi
+Wuhan
+Wuxi
+Xian
+Xuzhou
+Yangon
+YAOUNDE
+Yokohama
+Zhengzhou
+Zibo

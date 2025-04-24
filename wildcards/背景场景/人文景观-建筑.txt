@@ -1,0 +1,88 @@
+﻿salon
+prison
+casino
+convenience store
+bakery
+hangar
+building
+house
+pagoda
+tavern
+bus stop
+museum
+hotel
+theater
+mosque
+skyscraper
+shack
+treehouse
+guard tower
+stadium
+pharmacy
+bell tower
+control tower
+skyscrapers
+neon lights
+garage
+stilt house
+fences
+minaret
+warehouse
+floating castle
+greenhouse
+bookstore
+arena
+school
+gas station
+arcade
+movie theater
+aquarium
+convention
+train station
+supermarket
+apartment
+castle
+flower shop
+skating rink
+factory
+barn
+powerplant
+planetarium
+mall
+rooftop
+bunker
+temple
+weapon shop
+cafe
+nightclub
+bowling alley
+construction site
+gazebo
+izakaya
+onsen
+nuclear powerplant
+cooling tower
+industrial
+space elevator
+hut
+ruins
+art gallery
+hospital
+bar
+cityscape
+windmill
+pool
+sex shop
+megastructure
+military base
+observatory
+clock tower
+shrine
+church
+airport
+lighthouse
+tower
+amphitheater
+refinery
+restaurant
+shop

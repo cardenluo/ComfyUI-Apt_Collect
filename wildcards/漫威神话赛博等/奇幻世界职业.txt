@@ -1,0 +1,87 @@
+Wizard
+Witch
+Magician
+Court Jester
+Knight
+Warrior
+Amazonian
+Atlantean
+King
+Queen
+Lord
+Lady
+Ninja
+Samurai
+Rogue
+Bard
+Witcher
+Fantasy Barkeep
+Fantasy Innkeep
+Pirate
+Explorer
+Pioneer
+Pilgrim
+Conquistador
+Conquerer
+Savior
+Soldier
+Necromancer
+Druid
+Warlock
+Paladin
+Death Knight
+Hunter
+Alchemist
+Sage
+Seer
+Prophet
+Healer
+Shaman
+Summoner
+Illusionist
+Herbalist
+Potion Master
+Treasure Hunter
+Monster Hunter
+Exorcist
+Vampire Hunter
+Spirit Guide
+Soothsayer
+Astrologer
+Enchanter
+Artificer
+Runemaster
+Thaumaturge
+Scroll Keeper
+Archmage
+Elementalist
+Demon Hunter
+Priest
+Priestess
+Acolyte
+Oracle
+Spy
+Adventurer
+Guardian
+Mercenary
+Gladiator
+Duelist
+Champion
+Sellsword
+Beastmaster
+Geomancer
+Time Mage
+Diviner
+Dreamwalker
+Chronicler
+Mystic
+Seafarer
+Falconer
+Cartographer
+Tamer
+Berserker
+Dark Knight
+Astronomer
+Pyromancer
+Cryomancer
+Plague Doctor

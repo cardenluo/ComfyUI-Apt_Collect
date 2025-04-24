@@ -1,0 +1,40 @@
+New York City, New York
+Charleston, South Carolina
+Sedona, Arizona
+San Francisco, California
+Aspen, Colorado
+Key West, Florida
+Savannah, Georgia
+Honolulu, Hawaii
+Boise, Idaho
+Chicago, Illinois
+New Orleans, Louisiana
+Bar Harbor, Maine
+Annapolis, Maryland
+Nantucket, Massachusetts
+Traverse City, Michigan
+Duluth, Minnesota
+Jackson, Mississippi
+Branson, Missouri
+Whitefish, Montana
+Asheville, North Carolina
+Fargo, North Dakota
+Omaha, Nebraska
+Portsmouth, New Hampshire
+Santa Fe, New Mexico
+Lake Tahoe, Nevada
+Camden, New Jersey
+Taos, New Mexico
+Niagara Falls, New York
+Oklahoma City, Oklahoma
+Newport, Rhode Island
+Mount Rushmore, South Dakota
+Nashville, Tennessee
+Austin, Texas
+Salt Lake City, Utah
+Burlington, Vermont
+Alexandria, Virginia
+Seattle, Washington
+Harpers Ferry, West Virginia
+Madison, Wisconsin
+Jackson Hole, Wyoming

@@ -1,0 +1,38 @@
+﻿motion lines
+motion blur
+cinematic lighting
+foreshortening
+chromatic aberration
+optical illusion
+multiple monochrome
+chiaroscuro
+emphasis lines
+chromatic aberration abuse
+jpeg artifacts
+speed lines
+halftone
+bokeh
+backlighting
+lens flare abuse
+anaglyph
+god rays
+overexposure
+sparkle
+stereogram
+glowing light
+scanlines
+ray tracing
+dithering
+blurry
+bloom
+image fill
+reflection light
+silhouette
+blending
+caustics
+lens flare
+diffraction spikes
+drop shadow
+film grain
+vignetting
+depth of field
