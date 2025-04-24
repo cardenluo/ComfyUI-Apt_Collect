@@ -1,0 +1,5 @@
+__men_fashions/accessories/athletic__
+__men_fashions/accessories/bohemian__
+__men_fashions/accessories/casual_summer__
+__men_fashions/accessories/casual_winter__
+__men_fashions/accessories/formal_neckwear__

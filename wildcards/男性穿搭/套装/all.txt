@@ -1,0 +1,6 @@
+__men_fashions/ensembles/athletic__
+__men_fashions/ensembles/bohemian__
+__men_fashions/ensembles/casual_summer__
+__men_fashions/ensembles/casual_summer__
+__men_fashions/ensembles/casual_winter__
+__men_fashions/ensembles/formal__

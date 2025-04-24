@@ -1,0 +1,2 @@
+__men_fashions/headwear/casual_winter__
+__men_fashions/headwear/casual_summer__

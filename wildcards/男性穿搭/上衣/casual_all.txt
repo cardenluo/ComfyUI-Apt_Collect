@@ -1,0 +1,2 @@
+__men_fashions/tops/casual_summer.txt__
+__men_fashions/tops/casual_winter.txt__

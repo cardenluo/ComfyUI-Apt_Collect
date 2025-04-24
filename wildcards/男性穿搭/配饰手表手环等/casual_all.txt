@@ -1,0 +1,2 @@
+__men_fashions/accessories/casual_summer__
+__men_fashions/accessories/casual_winter__

@@ -1,0 +1,5 @@
+__men_fashions/underwear/boxers__
+__men_fashions/underwear/boxer_briefs__
+__men_fashions/underwear/briefs__
+__men_fashions/underwear/other__
+__men_fashions/underwear/trunks__

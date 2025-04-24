@@ -1,0 +1,6 @@
+__men_fashions/tops/athletic__
+__men_fashions/tops/bohemian__
+__men_fashions/tops/casual_summer__
+__men_fashions/tops/casual_winter__
+__men_fashions/tops/formal__
+__men_fashions/tops/vintage__

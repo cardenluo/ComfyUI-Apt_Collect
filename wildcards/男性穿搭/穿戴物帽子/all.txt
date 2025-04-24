@@ -1,0 +1,5 @@
+__men_fashions/headwear/athletic__
+__men_fashions/headwear/bohemian__
+__men_fashions/headwear/casual_winter__
+__men_fashions/headwear/casual_summer__
+__men_fashions/headwear/formal__

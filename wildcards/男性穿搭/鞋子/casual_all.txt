@@ -1,0 +1,3 @@
+__men_fashions/shoes/casual_all_seasons__
+__men_fashions/shoes/casual_summer__
+__men_fashions/shoes/casual_winter__
