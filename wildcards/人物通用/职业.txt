@@ -1,0 +1,462 @@
+Doctor
+Firefighter
+Police Officer
+President
+Mob Boss
+Truck Driver
+Astronaut
+General
+Admiral
+Fighter Pilot
+Soldier
+Sailor
+Scientist
+Cowboy
+Monk
+Diver
+Archaeologist
+Vetinarian
+Teacher
+Student
+Swami
+mobster
+king
+queen
+prince
+princess
+Merchant
+barkeep
+wench
+artist
+musician
+garbageman
+guitarist
+fashion model
+racecar driver
+Saint
+Sheriff
+Politician
+Astronomer
+Clown
+stage actor
+singer
+sky diver
+Sitcom star
+Chef
+Bartender
+Detective
+Surgeon
+Journalist
+Photographer
+Comedian
+Magician
+Carpenter
+Electrician
+Programmer
+Librarian
+Counselor
+Pilot
+Farmer
+Fisherman
+Miner
+Engineer
+Banker
+Florist
+Taxi Driver
+Salesperson
+DJ
+Social Worker
+Tour Guide
+Zookeeper
+Athlete
+Coach
+Mechanic
+Plumber
+Dentist
+Historian
+Meteorologist
+Biologist
+Philosopher
+Psychologist
+Translator
+Lifeguard
+Paramedic
+Geologist
+Architect
+Choreographer
+Graphic Designer
+Judge
+Lawyer
+Animator
+Game Developer
+Environmentalist
+Curator
+Pharmacist
+Barista
+Brewer
+Winemaker
+Blacksmith
+Silversmith
+Glassblower
+Sculptor
+Illustrator
+Botanist
+Zoologist
+Ecologist
+Physicist
+Chemist
+Mathematician
+Economist
+Accountant
+Explorer
+Mountaineer
+Marine Biologist
+Forensic Analyst
+Sommelier
+Actor
+Administrator
+Agent
+Agrarian
+Air Traffic Controller
+Alchemist
+Alderman
+Ambassador
+Anaesthecisist
+Analyst
+Animal Trainer
+Antique dealer
+Arborist
+Archbishop
+Archeologist
+Art Director
+Artist
+Assayer
+Assessor
+Astrologer
+Cosmonaut
+Taikonaut
+Astrophysicist
+Attorney at law
+Accountant 
+Author
+Bacteriologist
+Bailiff
+Baker
+Balloonist
+Bar keeper
+Beauty Specialist
+Bishop
+Bargeman
+Bodyguard
+Bookbinder
+Bookseller
+Bricklayer
+Broker
+Builder
+Bureaucrat
+Butcher
+Butler
+Cab driver
+Cabinet-maker
+Caddy
+Cameraman
+Captain
+Cardinal
+Cellist
+Chancellor
+Chaplain
+Chimney-sweeper
+Clarinettist
+Clergymen
+Clerk
+Coachman
+Coast guard
+Computer programmer
+Conductor (music)
+Conductor (transportation)
+Confectioner
+Conferencier
+Construction worker
+Consul
+Consultant
+Controller
+Cook
+Copywriter
+Coroner
+Corporate Executive Officer
+Correspondent
+Cosmetologist
+Courier
+Court Jester
+Crafter
+Crammer
+Custodian
+Customs Officer
+Chiropodist
+Corrector
+Dancer
+Deputy
+Designer
+Dietician
+Diplomat
+Disc Jockey
+Dock Labourer
+Documentalist
+Dramatist
+Dressmaker
+Dressman
+Driver
+Drummer
+Educationalist
+Electrical engineer
+Engine-driver
+Engine Fitter
+Entertainer
+Entrepreneur
+Environmental Scientist
+Ethnologist
+Ethologist
+Etymologist
+Evangelist
+Examiner
+Executive
+Executor
+Exotic dancer
+Executioner
+Estate Agent
+Factory worker
+Falconer
+Farrier
+Fashion Designer
+Ferryman
+Fire Officer
+Fitter
+Flautist
+Flight Technician
+Flight Instructor
+Floor Manager
+Footman
+Forester
+Fowler
+Garbage Collector
+Gardener
+Gate-keeper
+Gemcutter
+Genealogist
+Geographer
+Geometrician
+Geophysicist
+Gladiator
+Gondolier
+Gopher
+Governess
+Government agent
+Governor
+Grammarian
+Graphic Artist
+Grocer
+Guard
+Guide
+Guitarist
+Gunsmith
+Hairdesser
+Headmaster
+Herder
+Hostess
+Hotelier
+House painter
+Hunter
+Hydraulic Engineer
+Illusionist
+Imam
+Impersonator
+Importer
+Industrialist
+Inn-keeper
+Innkeeper
+Instructor
+Insurer
+Intelligence Officer
+Interior Designer
+Internist
+Interpreter
+Interrogator
+Inventor
+Jockey
+Joiner
+Juggler
+Jurist
+Kindergarten Teacher
+King
+Laboratory Worker
+Lady-in-waiting
+Landlord
+Law enforcement agent
+Librettist
+Light Technician
+Linesman
+Loan officer
+Locksmith
+Lord Chamberlain
+Lyricist
+Linguist
+Magistrate
+Mailman
+Make-up Artist
+Manager
+Manicure
+Manservant
+Manual Therapist
+Manufacturer
+Marine
+Market Gardener
+Marksman
+Marshal
+Martial artist
+Masseur
+Matador
+Matron
+Mayor
+Mechanician
+Medic
+Mercer
+Messenger
+Midwife
+Military
+Miller
+Minister
+Missionary
+Model
+Moonlighter
+Music composer
+Music director
+Musician
+Navigator
+Nurse
+Oboist
+Obstetrician
+Occupational Therapist
+Odontologist
+Operator
+Ophthalmologist
+Optician
+Organizer
+Ornithologist
+Orthodontist
+Orthopaedist
+Otorhinolaryngologist
+Painter
+Paleoseismologist
+Park ranger
+Party-leader
+Pastor
+Pathologist
+Pawnbroker
+Pediatrician
+Pedologist
+Percussionist
+Philologist
+Physician
+Physiognomist
+Physiologist
+Physiotherapist
+Pianist
+Plasterer
+Poet
+Poetrist
+Police Detective
+Police Inspector
+Political Scientist
+Poll-taker
+Pope
+Poulterer
+Presenter
+Priest
+Prime Minister
+Principal
+Printer
+Private detective
+Producer
+Professor
+Prostitute
+Public Relations Officer
+Publisher
+Queen
+Rabbi
+Race driver
+Radiologist
+Rat-catcher
+Receptionist
+Referee
+Registrar
+Remedial Teacher
+Reporter
+Retailer
+Sales Person
+Sarariman
+Saxophonist
+Scout
+Screenwriter
+Scribe
+Secretary General
+Secretary
+Security guard
+Senator
+Servant
+Sexologist
+Shepherd
+Shoemaker
+Signalman
+Singer
+Sniper
+Solicitor
+Sound Technician
+Special agent
+Speech Therapist
+Spy
+Stage Designer
+Steersman
+Stewardess
+Stock-breeder
+Stockbroker
+Street vendor
+Stuntman
+Surveyor
+System designer
+System analyst
+Tailor
+Tanner
+Taxi-driver
+Technical engineer
+Technician
+Telegraphist
+Telephone Operator
+Theologian
+Therapist
+Tiler
+Trader
+Treasurer
+Tuner
+Tutor
+Umbrella repairer
+Undertaker
+Upholsterer
+Usher
+Valet
+Ventriloquist
+Verger
+Veterinarian
+Vibrafonist
+Victualler
+Video-editor
+Violinist
+Waiter
+Warder
+Weaver
+Welder
+Window-dresser
+Wine Connoisseur
+Wood-cutter
+Wireless Operator
+Writer
+Xylophonist

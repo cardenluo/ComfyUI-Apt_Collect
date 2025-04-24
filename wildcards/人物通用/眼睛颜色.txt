@@ -1,0 +1,48 @@
+brown
+blue
+pale blue
+piercing blue
+dark brown
+light brown
+grey
+green
+dark green
+blue green
+teal
+dark teal
+dark red
+red
+magenta
+purple
+cyan
+filmy white
+green and blue
+gold
+bloodshot red
+hazel
+amber
+silver
+ice blue
+sapphire blue
+emerald green
+olive green
+seafoam green
+charcoal grey
+slate grey
+lavender
+pink
+copper
+bronze
+indigo
+aqua
+turquoise
+yellow
+orange
+rainbow
+black
+maroon
+chocolate brown
+honey brown
+electric blue
+neon green
+ghostly white
